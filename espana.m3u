@@ -1,37 +1,26 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="General",La 1
+#EXTINF:-1 tvg-id="La.1.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="General",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="General",La 2
+#EXTINF:-1 tvg-id="La.2.es" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="General",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="General",24 Horas
+#EXTINF:-1 tvg-id="Canal.24.horas.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="General",24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="General",Teledeporte
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="General",Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="General",Clan
+#EXTINF:-1 tvg-id="Clan.TVE.es" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="General",Clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="General",Real Madrid TV
+#EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="General",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 group-title="General",Canal Sur Andalucía
+#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" group-title="General",Canal Sur Andalucía
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="General",TVG
+#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="General",TVG
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/960px-ETB2_2022_logo.svg.png" group-title="General",ETB 2
+#EXTINF:-1 tvg-id="ETB.2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/960px-ETB2_2022_logo.svg.png" group-title="General",ETB 2
 https://cdn1.etbon.eus/etb2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="General",Canal Extremadura
+#EXTINF:-1 tvg-id="Canal.Extremadura.TV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" group-title="General",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
-
 #EXTINF:-1 group-title="Mallorca",TEF
 https://tef.servertv.online:3268/live/teflive.m3u8
-
 #EXTINF:-1 group-title="Mallorca",Canal 4 TV Mallorca
 https://5caf24a595d94.streamlock.net:1937/8110/8110/playlist.m3u8
