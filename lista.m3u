@@ -24,14 +24,10 @@ http://158.172.155.130:8000/play/a09y/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes",Win+ Futbol (1080p)
-http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports (Paraguay)
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Claro.Sports.1.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports (1080p)
 http://168.196.127.137:6001/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="AZTECA.DEPORTES.mx" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Deportes",Azteca Deportes Network (1080p)
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Real.Madrid.TV.mx" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes",Real Madrid TV (726p)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="SevillaFCTV.es@SD" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="Deportes",Sevilla FC TV (360p) [Not 24/7]
@@ -39,7 +35,7 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 #EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Deportes",Red Bull TV ES (1080p)
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Deportes",Teledeporte
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec@SD" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Deportes",Marca TV (1080p)
 http://200.7.219.221:8088/live/livetv/index.m3u8
 #EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="Deportes",Meridiano TV (576p)
@@ -54,14 +50,10 @@ http://190.128.214.97:64333/play/a01n/index.m3u8
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales",Discovery Science Latin America (720p)
 http://45.171.64.30:6060/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Discovery.World.Latinoamérica.mx" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World (1080p)
-http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="Canal.History.(México).mx" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Documentales",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="Canal.History.2.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Latin America (1080p)
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1 tvg-id="Canal.Investigation.Discovery.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales",Investigation Discovery Latin America South (1080p)
-http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-id="Canal.National.Geographic.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentales",National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@ES" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentales",NatureTime ES (1080p)
@@ -80,9 +72,7 @@ https://streaming.onnethn.com/HBO/playlist.m3u8
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Películas y Series",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_logo.svg.png" group-title="Películas y Series",HBO Hits (720p)
-http://tvsen7.aynascope.net/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Películas y Series",E! Latin America (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal.E!.Entertainment.Television.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Películas y Series",E! Latin America Mexico (720p)
+http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Space.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Películas y Series",Space (1080p)
 http://45.171.64.30:6060/play/a04n/index.m3u8
