@@ -86,3 +86,38 @@ http://45.171.64.30:6060/play/a00k/index.m3u8
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Space.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Películas y Series",Space (1080p)
 http://45.171.64.30:6060/play/a04n/index.m3u8
+
+# --- VOD de prueba (dominio público, Internet Archive) ---
+# Películas en inglés (original) y en español (doblada) para probar audio, subtítulos, seguir viendo y modo continuo.
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/night-of-the-living-dead-colorized" group-title="Películas",Night of the Living Dead (1968) - English
+https://archive.org/download/night-of-the-living-dead-colorized/Night%20of%20the%20Living%20Dead%20%28Colorized%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/la-noche-de-los-muertos-vivientes-videoclub-1990-25fps-2500kps" group-title="Películas",La Noche de los Muertos Vivientes (1968) - Español
+https://archive.org/download/la-noche-de-los-muertos-vivientes-videoclub-1990-25fps-2500kps/La_Noche_de_los_Muertos_Vivientes_Videoclub_1990_25fps_2500kps.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Nosferatu1922" group-title="Películas",Nosferatu (1922)
+https://archive.org/download/Nosferatu1922/Nosferatu.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/TheGeneral" group-title="Películas",The General (1926)
+https://archive.org/download/TheGeneral/The_General_512kb.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/ecatma-METROPOLIS_1927_FRITZ_LANG_-_The_Old_Time_Movie_Show" group-title="Películas",Metropolis (1927)
+https://archive.org/download/ecatma-METROPOLIS_1927_FRITZ_LANG_-_The_Old_Time_Movie_Show/METROPOLIS_1927_FRITZ_LANG_-_The_Old_Time_Movie_Show.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/charade-1963-cary-grant-audrey-hepburn-comedy-mystery-romance-thriller-full-movie" group-title="Películas",Charade (1963)
+https://archive.org/download/charade-1963-cary-grant-audrey-hepburn-comedy-mystery-romance-thriller-full-movie/Charade_READY.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/CountGoreDeVolGoresCarnivalofSouls" group-title="Películas",Carnival of Souls (1962)
+https://archive.org/download/CountGoreDeVolGoresCarnivalofSouls/cosDV.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/the-little-shop-of-horrors" group-title="Películas",The Little Shop of Horrors (1960)
+https://archive.org/download/the-little-shop-of-horrors/The%20Little%20Shop%20Of%20Horrors.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/buster-keaton-sherlock-jr.-1924" group-title="Películas",Sherlock Jr. (1924)
+https://archive.org/download/buster-keaton-sherlock-jr.-1924/Buster%20Keaton%20-%20Sherlock%20Jr.%20%281924%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Brzdac1921" group-title="Películas",The Kid (1921)
+https://archive.org/download/Brzdac1921/Brzd%C4%85c%20%281921%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/lets-sing-with-popeye-1934_202511" group-title="Series",Popeye - S01E01 - Let's Sing With Popeye
+https://archive.org/download/lets-sing-with-popeye-1934_202511/Let%27s%20Sing%20with%20Popeye%20%281934%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/a-job-for-a-gob-1955" group-title="Series",Popeye - S01E02 - A Job For A Gob
+https://archive.org/download/a-job-for-a-gob-1955/IMG_6563.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/car-azy-drivers-1955" group-title="Series",Popeye - S01E03 - Car-azy Drivers
+https://archive.org/download/car-azy-drivers-1955/New%20Movie%202%20Apr%205%2C%202024%209.05.55%20PM.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/superman_bulleteers" group-title="Series",Superman - S01E01 - The Bulleteers
+https://archive.org/download/superman_bulleteers/bulleteers.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/superman_jungle_drums" group-title="Series",Superman - S01E02 - Jungle Drums
+https://archive.org/download/superman_jungle_drums/Superman-15-Jungle_Drums.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/superman_underground_world" group-title="Series",Superman - S01E03 - The Underground World
+https://archive.org/download/superman_underground_world/Superman-16-The_Underground_World.mp4
